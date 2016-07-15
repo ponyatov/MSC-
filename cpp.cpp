@@ -1,3 +1,5 @@
 #include "hpp.hpp"
 
-int main() {}
+int main() {
+	cout << "Hello\n\n";
+}
